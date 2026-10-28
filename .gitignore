@@ -1,0 +1,9 @@
+# 编译产物
+doomsday
+*.o
+*.obj
+
+# 系统/编辑器文件
+.DS_Store
+.vscode/
+.idea/
